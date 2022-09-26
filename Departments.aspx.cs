@@ -11,7 +11,8 @@ namespace OfficeApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string abcd="abcd";
+            string myconfig="101.202.101.22";
         }
     }
 }
